@@ -1,5 +1,5 @@
 # shopping-cart
-This is a Shopping-Cart-app project built using create-react-app
+This is a Shopping-Cart-app project built using create vite
 ## Technologies, Libraries & Tools used:
 - Reactjs for the User Interface
 - Bootstrap, React-Bootstrap for Styling
