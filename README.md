@@ -1,5 +1,5 @@
 # shopping-cart
-This is a Shopping-Cart-app project built usin
+This is a Shopping-Cart-app project built using create-reacte-app
 ## Technologies, Libraries & Tools used:
 - Reactjs for the User Interface
 - Bootstrap, React-Bootstrap for Styling
